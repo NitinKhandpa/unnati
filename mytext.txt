@@ -1,0 +1,9 @@
+This is a version 1 of git tutorials
+
+Now i want to change the text file
+
+
+changed by nitin khandpa
+
+changed now!
+changed it again
